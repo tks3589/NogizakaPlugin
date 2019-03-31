@@ -13,6 +13,6 @@
 * 技能施放
 * 螢幕像素點位置是根據我的螢幕寫死，真的要用要有一套調整機制
 
-![](https://github.com/tks3589/NogizakaPlugin/blob/master/testP/show.gif)
+<img src="https://github.com/tks3589/NogizakaPlugin/blob/master/testP/show.gif"  height="330" width="600">
 
 
