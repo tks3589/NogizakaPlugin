@@ -1,4 +1,7 @@
 # NogizakaPlugin
+主要程式路徑: src/main/java/com/aaron/Refactor
+demo GIF : testP/show.gif
+<br><br>
 一個比陽春麵還陽春的乃木戀外掛
 
 基本原理上使用螢幕顏色判別，每個球為一個物件，利用遞迴找出三顆(含)以上的路徑，然後控制滑鼠消珠
